@@ -1,0 +1,45 @@
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+
+.green {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    display: inline;
+}
+
+.blue {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.sillycat {
+    background-color: pink;
+    width: 500px;
+    height: 250px;
+    float: left;
+}
+
+.sillycat img {
+    float: left;
+}
+
+.doggo {
+    background-color: lightblue;
+    width: 500px;
+    height: 250px;
+    float: right;
+ display: inline-block;
+}
+
+.doggo img {
+    display: inline-block;
+    float: left
+}
+
